@@ -1,1 +1,5 @@
-CONTRIBUTING.mkdn
+===========Read Me=====================
+
+A simple code & easy to implement for Temporary file handling in Perl.First You need to create a temporary file and have it deleted automatically when your program exits. For instance, if you needed a temporary configuration file to feed a program you're about to launch, you'd need a name for that file so you could pass that filename along to the utility program.
+
+LeoCalrk - Coder at http://www.lungsal.com/Bamboo-Stylus.html
